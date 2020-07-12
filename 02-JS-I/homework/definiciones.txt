@@ -1,0 +1,9 @@
+Variables: es una palabra que puede recibir diferentes palabras o numeros según para que fue creada. Por ejemplo si declaro la variable "Edad" para ver quien es el mas grande, esa variable guardaria numeros. Si declar la variable "Nombre" para ver cual es mas largo o mas corto, es variable recibiria cadenas de texto.
+
+Strings: es una palabra que puede contener letras numeros y simbolos
+
+Funciones (argumentos, return): esta compuesta por una palabra y valores que siguiendo los pasos para los que fue creada, retornara un resultado final. Defino la funcion EdaddelMayor, la misma recibe un conjunto de edades y retorna como resultado la mayor.
+
+Declaraciones if: esto nos permite realizar comparaciones entre valores y textos de manera tal que si se cumple las conidiciones planteadas nos retorna un resultado A y en caso contrario, nos retorna otro resultado B.
+
+Valores booleanos (true, false): son resultados que no permiten mas que 2 opciones. Si/no Blanco/Negro Positivo/Negativo 0/1.
