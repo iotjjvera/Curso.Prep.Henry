@@ -1,0 +1,4 @@
+for: palabra clave de programación que se usa cuando es necesario realizar un ciclo de pasos. Un tarea que se debe repertir una determinada cantidad de veces y de la cual se obtiene un resultado vital para la solución del problema en cuestión.
+
+&&, ||, !: palabras claves utilizadas en programación. && se utiliza para sumar condiciones que se deben dar para obtener un resultado. || se utiliza cuando el resultado depende de que ocurra la condición A o la condición B. ! se utiliza para indicar lo opuesto.
+
