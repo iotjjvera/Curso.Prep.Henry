@@ -1,0 +1,1 @@
+Arrays: es un conjunto de valores que puede almacenar gran variedad de elementos, numeros, palabras, funciones, otros arrays, etc. Muy utiles dado que una vez que se guardan dentro, uno puede acceder a esa información con solo saber en que lugar fue guardad. El primer lugar es el 0 y el ultimos es igua a la cantidad total -1.
